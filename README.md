@@ -2,7 +2,19 @@
 
 ## Overview
 
-**Finnect** is an innovative digital platform designed to support FINRA’s transition into a dynamic hybrid work environment. Recognizing the evolving needs of modern workplaces, Finnect empowers employees with tools to streamline daily logistics, foster spontaneous social interactions, and access curated resources—all within one seamless ecosystem. By integrating carefully selected features that highlight connection, collaboration, and informed engagement, Finnect aims to enhance the overall work experience and drive greater participation in office settings.
+### Problem to Solve
+Modern hybrid work environments present unique challenges for organizations like FINRA:
+- **Fragmented Interactions:** As employees split their time between remote and in-office work, casual interactions and spontaneous networking opportunities are diminished.
+- **Engagement Gaps:** Without a unified platform, maintaining a sense of community, sharing timely company updates, and ensuring smooth logistical transitions become difficult.
+- **Inadequate Communication Channels:** Traditional communication methods often fail to support the dynamic needs of a hybrid workforce, leaving employees less informed and less connected.
+
+### Our Solution
+**Finnect** is an innovative digital platform designed to address these challenges by:
+- **Streamlining Daily Logistics:** Providing tools that simplify in-office coordination and promote effortless communication.
+- **Fostering Spontaneous Interactions:** Enabling one-time meetups and engaging social opportunities through features like "Looking for Pals" and community clubs.
+- **Creating a Unified Resource Hub:** Offering a centralized space where employees can quickly review the latest news, access light-hearted content for ice-breaking, and stay informed about industry developments.
+
+By uniting these functions into a single, seamless ecosystem, Finnect transforms the hybrid work experience at FINRA into a dynamic, engaging, and well-connected community.
 
 ## Goal and Significance
 
@@ -14,10 +26,9 @@
 
 ### Significance
 - **Enhanced Collaboration and Morale:**  
-  Finnect provides a user-friendly environment that promotes social interaction and community building. Through structured features like "Looking for Pals" and club initiatives, employees can explore diverse ways to engage with colleagues, thereby strengthening team bonds and enhancing overall job satisfaction.
-  
-- **Streamlined Transition to Hybrid Work:**  
-  By offering innovative solutions that simplify in-office logistics and foster impromptu networking, Finnect addresses common barriers to in-person engagement. Its dedicated resource hub keeps employees updated on the latest news and provides light-hearted content for ice-breaking in meetings, ensuring that workdays remain both productive and enjoyable.
+  Finnect cultivates a user-friendly environment that promotes social interaction and community building. By enabling features like "Looking for Pals" and various clubs, employees can engage in meaningful interactions that build team cohesion and improve job satisfaction.
+- **Seamless Hybrid Transition:**  
+  Finnect addresses key operational hurdles by providing real-time updates, curated content, and conversation starters that keep the workforce both informed and connected—ensuring that workdays remain productive and enjoyable.
 
 ## Key Features
 
